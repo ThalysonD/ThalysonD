@@ -10,7 +10,7 @@
     <br>
 ⚙️ I use daily: 
     <div style="display: inline_block">
-        <img style="display: inline_block"><img align="center" alt="Thalyson-Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+        <img style="display: inline_block"><img align="center" alt="Thalyson-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
         <img align="center" alt="Thalyson-C#" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
         <img align="center" alt="Thalyson-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
         <img align="center" alt="Thalyson-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
