@@ -21,9 +21,8 @@
 </div>
 <br>
 🌱 Learning all about **Programming**
-<br>
+    <br>
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/thalyson-dornelas-gomes/)
-
 
 <div>
     <a href="https://api.whatsapp.com/send?phone=5538991886083&text=Olá%20Thalyson!%20">
