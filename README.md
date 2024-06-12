@@ -24,6 +24,7 @@
 <br>
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/thalyson-dornelas-gomes/)
 
+
 <div>
     <a href="https://api.whatsapp.com/send?phone=5538991886083&text=Olá%20Thalyson!%20">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
